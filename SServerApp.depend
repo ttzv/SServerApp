@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1496403509 source:e:\gdrive\c++\sserverapp\main.cpp
+	"headers.h"
+	"Helper_functions.h"
+	"Calculations.h"
+	"COM_functions.h"
+	"TCP_functions.h"
+
+1489516435 e:\gdrive\c++\sserverapp\headers.h
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<sstream>
+	<string.h>
+	<iomanip>
+	<time.h>
+	<chrono>
+	<cstdlib>
+	<cstdio>
+	<cmath>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<fstream>
+
+1488366947 e:\gdrive\c++\sserverapp\helper_functions.h
+
+1492627282 e:\gdrive\c++\sserverapp\calculations.h
+
+1492966116 e:\gdrive\c++\sserverapp\com_functions.h
+
+1489571087 e:\gdrive\c++\sserverapp\tcp_functions.h
+
